@@ -21,6 +21,8 @@ The dataset was sourced from a fictional U.S. furniture retail company’s sales
 ### Dashboard
 <a href="https://github.com/mauree155/Furniture_Sales_Overview/blob/main/Furniture%20dashboard.JPG"> view-Dashboard</a>
 
+![Furniture dashboard](https://github.com/user-attachments/assets/4e3ad72e-ca99-4e7b-b3df-d6146a13f4c5)
+
 ### Processes
 - Step 1: Data Cleaning and Transformation
 Used Power Query to:
