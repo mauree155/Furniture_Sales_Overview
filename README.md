@@ -19,6 +19,7 @@ The dataset was sourced from a fictional U.S. furniture retail company’s sales
 - Power Query in Excel: Data cleaning and transformation.
 
 ### Dashboard
+<a href="https://github.com/mauree155/Furniture_Sales_Overview/blob/main/Furniture%20dashboard.JPG"> view-Dashboard</a>
 
 ### Processes
 - Step 1: Data Cleaning and Transformation
