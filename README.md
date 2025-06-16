@@ -1,4 +1,4 @@
-# Furniture_Sales_Overview
+# Furniture-Sales-Overview
 ### Table of Contents 
 - [Project Overview](project-overview)
 - [Data Source](data-source)
