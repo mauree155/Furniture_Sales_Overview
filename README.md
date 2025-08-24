@@ -1,12 +1,12 @@
 # Furniture-Sales-Overview
 ### Table of Contents 
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Dashboard](dashboard)
-- [Processes](processes)
-- [Key Insights](key-insights)
-- [Recommendations](Recommendations)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Dashboard](#dashboard)
+- [Processes](#processes)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 This project provides a clear and transparent view of furniture sales data across the United States, highlighting performance trends, shipping behaviors, and regional differences. It aims to equip stakeholders with actionable insights to optimize sales strategies, refine shipping processes, and understand regional demand patterns. This report presents a well-curated and interactive Excel dashboard that delves deep into sales metrics, shipping performance, and regional trends.
